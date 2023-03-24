@@ -157,6 +157,10 @@ form select, form input {
 }
 /* Contact area styling */
 
+.contact-mid-tag-line h2 {
+    font-size: 1.3rem;
+}
+
 .contact-mid-tag-line p {
     font-size: .9rem;
     width: fit-content;
